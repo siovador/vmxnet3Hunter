@@ -1,2 +1,8 @@
-# vmxnet3Hunter
-Use this tool to prioritize cluster patching for the recent VMware advisory VMSA-2018-0027 related to CVE-2018-6981 and CVE-2018-6982.
+Summary:  
+vmxnet3Hunter will find all virtual machines running the vmxnet3 adapter and flag the parent cluster as vulenrable to the recent vmEscape advisory.  
+
+VMware Advisory: https://www.vmware.com/security/advisories/VMSA-2018-0027.html  
+CVE: CVE-2018-6981, CVE-2018-6982  
+
+
+
