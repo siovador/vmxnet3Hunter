@@ -8,10 +8,10 @@ vmxnet3Hunter will find all virtual machines running the vmxnet3 adapter and fla
 VMware Advisory: https://www.vmware.com/security/advisories/VMSA-2018-0027.html  
 CVE: CVE-2018-6981, CVE-2018-6982  
 
-# Installation
-apt-get install python3-pip
-pip3 install docopt
-pip3 install pyvmomi
-##RUN:
-python3 vmxnet3Hunter.py
+# Installation  
+apt-get install python3-pip  
+pip3 install docopt  
+pip3 install pyvmomi  
+##RUN:  
+python3 vmxnet3Hunter.py  
 
